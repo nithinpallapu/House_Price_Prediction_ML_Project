@@ -32,9 +32,6 @@ This project aims to build a **data-driven house price prediction system** using
   - Parking & Security  
   - Price in Lakhs (target variable)
 
-> ⚠️ **Note:**  
-> The dataset is synthetic but designed to follow realistic housing price behavior and geographic consistency. It is intended for learning and demonstration purposes.
-
 ---
 
 ## 🛠️ Technologies Used
